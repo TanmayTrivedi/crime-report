@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing crime rates in Los Angeles using publicly available data from the LA City Government Open Data Portal. The primary goal is to leverage data analytics techniques using **Python** and **Power BI** to uncover meaningful insights about crime trends, patterns, and hotspots. These insights can help law enforcement agencies and policymakers in making data-driven decisions for public safety.
+This project focuses on analyzing crime rates in Los Angeles using publicly available data from the LA City Government Open Data Portal. The primary goal is to leverage data analytics techniques using **Python** and **Power BI** to uncover meaningful insights about crime trends, patterns, and hotspots. These insights can help law enforcement agencies and policymakers in making data-driven decisions for public safety
 
 ---
 
